@@ -1,8 +1,8 @@
 ssh: ssh pi@192.168.11.1
 pass: raspberry
-образ:https://github.com/CopterExpress/clever/releases
+os for raspberry:https://github.com/CopterExpress/clever/releases
 
-изменение ssid/pass/etc
+change ssid/pass/etc
  sudo nano /etc/wpa_supplicant/wpa_supplicant.conf
 
 /* network={
@@ -17,4 +17,4 @@ pass: raspberry
  }
 */
 
-настройка: QGrounControl
+РєР°Р»РёР±СЂРѕРІРєР°: QGrounControl
