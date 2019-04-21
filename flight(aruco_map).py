@@ -126,13 +126,3 @@ rospy.sleep(5)
 land()
 print('gg')
 
-
-
-
-
-
-
-
-land()
-
-print('gg')
