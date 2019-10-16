@@ -18,3 +18,5 @@ change ssid/pass/etc
 */
 
 калибровка: QGrounControl
+
+ rosservice call /land "{}" - land from terminal 
