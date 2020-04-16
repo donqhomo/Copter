@@ -13,5 +13,5 @@ map.txt                | map of markers
 flip.py                | src for flip 
 rotate.py              | src for movement along a circular path and around its axis
 jump.py                | quick acceleration
-jump.py                | combo of tricks{[flip + rotate + jump]}
+combo.py               | combo of tricks{[flip + rotate + jump]}
 
