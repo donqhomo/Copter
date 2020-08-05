@@ -3,7 +3,7 @@
 
 ## Files description
 
-File Name--------------| the Appointment
+File Name              | the Appointment
 -----------------------|----------------------
 Clever2__dlya_rezki.dxf| blueprint copter (Model: Clever 2)
 Flight(aruco/telemetry)| code for autonomus boat movement on marksers
